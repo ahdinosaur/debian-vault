@@ -9,7 +9,8 @@
     "build": "hashicorp-deb:build",
     "package": "hashicorp-deb:package",
     "install": "hashicorp-deb:install",
-    "preinstall": "npm run key && npm run download && npm run build && npm run package"
+    "preinstall": "npm run key && npm run download && npm run build && npm run package",
+    "clean": "rm -rf .downloads .builds .packages"
   },
   "repository": {
     "type": "git",
