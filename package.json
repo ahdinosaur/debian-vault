@@ -17,7 +17,7 @@
     "url": "git+https://github.com/ahdinosaur/debian-vault.git"
   },
   "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.is)",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/ahdinosaur/debian-vault/issues"
   },
